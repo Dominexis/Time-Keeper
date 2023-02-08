@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": [
+            "",
+            { "text": "Time Keeper", "color": "gold", "bold": true },
+            "\n",
+            { "text": "By ", "color": "gray" },
+            { "text": "Dominexis", "color": "blue" },
+            { "text": " - ", "color": "gray" },
+            { "text": "1.0.0", "color": "gold" }
+        ]
+	}
+}
